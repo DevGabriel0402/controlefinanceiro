@@ -84,6 +84,7 @@ export const Select = styled.select`
   margin-bottom: 8px;
   padding: 5px;
   color: blueviolet;
+  background-color: #fafafa;
 
   @media (max-width: 550px) {
     max-width: 200px;
