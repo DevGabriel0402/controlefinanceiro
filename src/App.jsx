@@ -3,7 +3,7 @@ import { Resume } from "./components/Cards";
 import { Form } from "./components/Form";
 import { Header } from "./components/Header";
 import { ListaDeTransacoes } from "./components/ListaDeTransacoes";
-import { AppContainer, Container, ContainerForm } from "./styles/style";
+import { AppContainer, Container, ContainerForm } from "@/styles/style";
 
 function App() {
   const data = localStorage.getItem("transctions");
